@@ -1,4 +1,4 @@
-# Analytics Project with Natural Language Processing (NPL)
+# Analytics Project with Natural Processing Language (NPL)
 
 Description:
 
